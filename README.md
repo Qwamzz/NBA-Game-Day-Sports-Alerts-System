@@ -148,4 +148,3 @@ cd game-day-notifications
 
 ---
 
-This README provides a clear and detailed guide to your project. You can deploy and replace placeholder text with specific images or screenshots. Let me know if you'd like further edits!
