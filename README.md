@@ -6,7 +6,7 @@ This project is designed to keep NBA fans updated with live game scores through 
 ---
 
 ## **Features**
-1. **Live Score Updates**: Fetches real-time NBA scores using the external NBA Game API.
+1. **Live Score Updates**: Fetches real-time NBA scores using the external NBA Game API. https://sportsdata.io/
 2. **Automated Notifications**: Sends formatted updates via Amazon Simple Notification Service (SNS) to subscribed users.
 3. **Scheduled Execution**: Uses Amazon EventBridge to schedule periodic score updates automatically.
 4. **Secure Design**: Implements IAM roles and policies to ensure the system adheres to the principle of least privilege.
