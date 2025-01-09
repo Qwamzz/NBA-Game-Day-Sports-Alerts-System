@@ -24,11 +24,8 @@ The solution is structured to maximize scalability and reliability:
 5. **IAM Roles**: Enforces least-privilege access to ensure system security.
 
 ### Architecture Diagram
-![Architecture Diagram Placeholder](path-to-your-architecture-image)
+![diagram-export-09-01-2025-11_50_58](https://github.com/user-attachments/assets/1d521116-4961-4916-ab2d-670d2589007f)
 
-*Insert an image illustrating how the NBA API, Lambda, SNS, EventBridge, and IAM roles interact.*
-
----
 
 ## **Technologies Used**
 - **Programming Language**: Python 3.x
